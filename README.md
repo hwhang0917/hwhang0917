@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hello there!
+ My name is Heesang Whang, I majored in Computer Science in college and learning to become a fullstack web developer. 
+ 
+## 🔖 Languages
 
-<!--
-**hwhang0917/hwhang0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I mainly used C/C++ in college, and about a year ago started to learn HTML/CSS/JS Web development. I used Python and Go for webscrapping (BeautifulSoup, goquery), and lightweight server (Flask, Echo).
 
-Here are some ideas to get you started:
+* C/C++ (Intermediate)
+* Python (Intermediate)
+* JavaScript (Intermediate)
+* HTML/CSS (Intermediate)
+* Go (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+* [Personal Blog](https://runfridge-dev-blog.netlify.app/)
