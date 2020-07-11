@@ -11,21 +11,6 @@
 * HTML/CSS (Intermediate)
 * Go (Beginner)
 
-### 🖼 Frameworks / 📕 Libraries
-
-> These are few frameworks/libraries I have experiences with
-
-* JavaScript
-  * Express
-  * React JS
-* Python
-  * BeautifulSoup
-  * CEF Python
-  * Flask
-* Go
-  * Goquery
-  * Echo
-
 ### 🔗 Links
 
 * [Personal Blog](https://runfridge-dev-blog.netlify.app/)
