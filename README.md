@@ -6,7 +6,7 @@
 > I mainly used C/C++ in college, and about a year ago started to learn HTML/CSS/JS Web development. I used Python and Go for webscrapping (BeautifulSoup, goquery), and lightweight server (Flask, Echo).
 
 * C/C++ (Intermediate)
-* Python (Intermediate)
+* Python (Beginner)
 * JavaScript (Intermediate)
 * HTML/CSS (Intermediate)
 * Go (Beginner)
