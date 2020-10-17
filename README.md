@@ -3,8 +3,6 @@
 
 ### 🔗 Links
 
-* [Personal Blog](https://runfridge-dev-blog.netlify.app/)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwhang0917&layout=compact)
 <!--- [![Heesang's github stats](https://github-readme-stats.vercel.app/api?username=hwhang0917)](https://github.com/hwhang0917/github-readme-stats) --->
 ___
