@@ -1,5 +1,12 @@
 ## 👋 Hello there!
- My name is Heesang Whang, I majored in Computer Science in college and learning to become a fullstack web developer. 
+ My name is Heesang Whang, I majored in Computer Science and learning to become a fullstack developer.
+ 
+## 💡 My current interests
+
+- MongoDB
+- Jenkins
+- TypeScript
+- Go
 
 ___
   <div align=center>
