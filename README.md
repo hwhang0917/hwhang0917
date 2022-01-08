@@ -7,6 +7,7 @@
 - Jenkins
 - TypeScript
 - Go
+- Svelte
 
 ___
   <div align=center>
