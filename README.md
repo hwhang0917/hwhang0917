@@ -7,16 +7,24 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
 <h3>💡 These are some of my current interests: </h3>
 <ul>
   <li>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1571968141/noticon/c7cfaq2qsllxmocswvil.png" width="20px" />
+    <span> Vim </span>
+  </li>
+  <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png" width="20px" />
     <span> MongoDB </span>
   </li>
   <li>
-    <img src="https://www.clipartmax.com/png/full/258-2589215_jenkins-icon-jenkins-icon.png" width="20px" />
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1630298653/noticon/vhgfb7kgqg70jzyrsdzo.png" width="20px" />
     <span> Jenkins </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="20px" />
     <span> Typescript </span>
+  </li>
+  <li>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1600658982/noticon/hk60kbfbqnedpguy0gbb.png" width="20px" />
+    <span> NestJS </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913507/noticon/hjit7mgl2inale9sj9uo.png" width="20px">
