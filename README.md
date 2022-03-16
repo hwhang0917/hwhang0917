@@ -11,8 +11,12 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
     <span> Vim </span>
   </li>
   <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581824691/noticon/hmvqgvug8zl7etwmabuq.png" width="20px" />
-    <span> MongoDB </span>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1639528774/noticon/ouggkwymgzlbt4ir8ne0.png" width="20px" />
+    <span> Prisma </span>
+  </li>
+  <li>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913379/noticon/uiite75rxvkvcki3mr4u.png" width="20px" />
+    <span> Postgres </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="20px" />
