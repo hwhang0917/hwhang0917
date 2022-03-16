@@ -15,24 +15,12 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
     <span> MongoDB </span>
   </li>
   <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1630298653/noticon/vhgfb7kgqg70jzyrsdzo.png" width="20px" />
-    <span> Jenkins </span>
-  </li>
-  <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="20px" />
     <span> Typescript </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1600658982/noticon/hk60kbfbqnedpguy0gbb.png" width="20px" />
     <span> NestJS </span>
-  </li>
-  <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913507/noticon/hjit7mgl2inale9sj9uo.png" width="20px">
-    <span> Golang </span>
-  </li>
-  <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777880/noticon/rijbvun7uj2kb3z4j2sy.png" width="20px" />
-    <span> Svelte </span>
   </li>
 </ul>
 
