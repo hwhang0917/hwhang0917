@@ -26,6 +26,9 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1600658982/noticon/hk60kbfbqnedpguy0gbb.png" width="20px" />
     <span> NestJS </span>
   </li>
+  <li>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg" width="20px" />
+    <span> NextJS </span>
 </ul>
 
 <br />
