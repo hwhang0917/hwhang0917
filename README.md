@@ -34,7 +34,7 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
 <br />
 <div align=center>
 
-![](https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg)
+[![](https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg)](https://wakatime.com/@heesangw)
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
