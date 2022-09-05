@@ -1,22 +1,23 @@
-<h1>👋 Hello there!</h1>
+<h1>Welcome to my Github</h1>
 
 <p>
-My name is Heesang Whang, I majored in Computer Science and learning to become a fullstack developer.
+I'm a web developer from South Korea aiming to become full stack! <br />
+I love to solve problems and always open for improvements. I aspire to make my code KISS(Keep It Simple and Stupid) so that it can be easily readable/maintainable not only by others but also future me.
 </p>
 
-<h3>💡 These are some of my current interests: </h3>
+<h3>💡 These are some of my current tech interests: </h3>
 <ul>
   <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1571968141/noticon/c7cfaq2qsllxmocswvil.png" width="20px" />
-    <span> Vim </span>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
+    <span> Neovim </span>
   </li>
   <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1639528774/noticon/ouggkwymgzlbt4ir8ne0.png" width="20px" />
-    <span> Prisma </span>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252186/noticon/imqc7seefsupvwbjdp94.png" width="20px" />
+    <span> Bash </span>
   </li>
   <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913379/noticon/uiite75rxvkvcki3mr4u.png" width="20px" />
-    <span> Postgres </span>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px" />
+    <span> Git </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="20px" />
@@ -34,7 +35,7 @@ My name is Heesang Whang, I majored in Computer Science and learning to become a
 <br />
 <div align=center>
 
-[![](https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg)](https://wakatime.com/@heesangw)
+ <img src="https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg" width="500px" />
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
