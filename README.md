@@ -1,4 +1,4 @@
-<h1>Welcome to my Github</h1>
+<h1>✋ Hello</h1>
 
 <p>
 I'm a web developer from South Korea aiming to become full stack! <br />
