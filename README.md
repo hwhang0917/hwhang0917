@@ -2,7 +2,7 @@
 
 <p>
 I'm a web developer from South Korea aiming to become full stack! <br />
-I love to solve problems and always open for improvements. I aspire to make my code KISS(Keep It Simple and Stupid) so that it can be easily readable/maintainable not only by others but also future me.
+I love to solve problems and always open for improvements.
 </p>
 
 <h3>💡 These are some of my current tech interests: </h3>
