@@ -35,7 +35,7 @@ I love to solve problems and always open for improvements.
 <br />
 <div align=center>
 
- <h2>Coding stats per language last year</h2>
+ <h2>Coding time per language last year</h2>
  <img src="https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg" width="500px" />
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
