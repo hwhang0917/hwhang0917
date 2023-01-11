@@ -1,6 +1,7 @@
-<h1>✋ Hello</h1>
+<h1>👋 Hello! </h1>
 
 <p>
+My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜) </br>
 I'm a web developer from South Korea aiming to become full stack! <br />
 I love to solve problems and always open for improvements.
 </p>
@@ -34,6 +35,10 @@ I love to solve problems and always open for improvements.
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1634264836/noticon/uxvdxcyvs5ocrxhacfj6.png" width="20px" />
     <span> Node.js </span>
+  </li>
+  <li>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577603407/noticon/uqwdjdnxeuk8sbga0emm.png" width="20px" />
+    <span> Svelte </span>
   </li>
 </ul>
 
