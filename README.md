@@ -9,6 +9,10 @@ I love to solve problems and always open for improvements.
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
   <li>
+    <img src="https://trpc.io/img/logo.svg" width="20px" />
+    <span> TRPC </span>
+  </li>
+  <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
     <span> Neovim </span>
   </li>
@@ -35,10 +39,6 @@ I love to solve problems and always open for improvements.
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1634264836/noticon/uxvdxcyvs5ocrxhacfj6.png" width="20px" />
     <span> Node.js </span>
-  </li>
-  <li>
-    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577603407/noticon/uqwdjdnxeuk8sbga0emm.png" width="20px" />
-    <span> Svelte </span>
   </li>
 </ul>
 
