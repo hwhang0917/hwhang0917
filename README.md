@@ -10,7 +10,7 @@ I love to solve problems and always open for improvements.
 <ul>
   <li>
     <img src="https://trpc.io/img/logo.svg" width="20px" />
-    <span> TRPC </span>
+    <span> tRPC </span>
   </li>
   <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
