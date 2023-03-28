@@ -46,7 +46,7 @@ I love to solve problems and always open for improvements.
 <div align=center>
 
  <h2>Languages used this year</h2>
- <img src="https://wakatime.com/share/@heesangw/7ebf61c8-1441-4f66-8dcd-092fd8592c93.svg" width="500px" />
+ <img src="https://wakatime.com/share/@heesangw/f213baca-cd47-46bb-820c-227de6b34da0.svg" width="500px" />
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
