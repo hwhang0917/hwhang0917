@@ -9,10 +9,6 @@ I love to solve problems and always open for improvements.
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
   <li>
-    <img src="https://trpc.io/img/logo.svg" width="20px" />
-    <span> tRPC </span>
-  </li>
-  <li>
     <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
     <span> Neovim </span>
   </li>
