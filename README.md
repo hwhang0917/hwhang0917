@@ -1,5 +1,7 @@
 <h1>👋 Hello! </h1>
 
+<a href="https://app.daily.dev/runfridge"><img src="https://api.daily.dev/devcards/53e9c1c332c54eb0bfb0ab53076bb075.png?r=1j3" width="400" alt="RunFridge's Dev Card"/></a>
+
 <p>
 My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜) </br>
 I'm a web developer from South Korea aiming to become full stack! <br />
