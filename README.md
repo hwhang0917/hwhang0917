@@ -1,7 +1,5 @@
 <h1>👋 Hello! </h1>
 
-<a href="https://app.daily.dev/runfridge"><img src="https://api.daily.dev/devcards/53e9c1c332c54eb0bfb0ab53076bb075.png?r=1j3" width="400" alt="RunFridge's Dev Card"/></a>
-
 <p>
 My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜) </br>
 I'm a web developer from South Korea aiming to become full stack! <br />
@@ -48,5 +46,5 @@ I love to solve problems and always open for improvements.
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
-
 </div>
+
