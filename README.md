@@ -9,6 +9,10 @@
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
     <li>
+        <img src="https://svgshare.com/i/15Qe.svg" width="20px" />
+        <span> Awk </span>
+    </li>
+    <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px" />
         <span> Golang </span>
     </li>
@@ -21,8 +25,8 @@
         <span> Neovim </span>
     </li>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg" width="20px" />
-        <span> Next.js</span>
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252161/noticon/g7xjbbyviqi02xkxeo8x.png" width="20px" />
+        <span> Bash </span>
     </li>
     <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px" />
