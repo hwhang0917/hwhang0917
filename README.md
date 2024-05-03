@@ -9,18 +9,6 @@
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
     <li>
-        <img src="https://svgshare.com/i/15Qe.svg" width="20px" />
-        <span> Awk </span>
-    </li>
-    <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px" />
-        <span> Golang </span>
-    </li>
-    <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678190474/noticon/fenra4zau2wyqushekwb.png" width="20px" />
-        <span> Langchain / GPT </span>
-    </li>
-    <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
         <span> Neovim </span>
     </li>
