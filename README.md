@@ -9,16 +9,20 @@
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px" />
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1658627782/noticon/ltx7mg3uludcsgblvkce.png" width="20px">
         <span> Neovim </span>
     </li>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252161/noticon/g7xjbbyviqi02xkxeo8x.png" width="20px" />
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252161/noticon/g7xjbbyviqi02xkxeo8x.png" width="20px">
         <span> Bash </span>
     </li>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px" />
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px">
         <span> Git </span>
+    </li>
+    <li>
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px">
+        <span> Golang </span>
     </li>
 </ul>
 
