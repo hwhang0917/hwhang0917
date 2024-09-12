@@ -47,8 +47,9 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
 
 <br />
 
-<div align=center>
 ## Languages used this year
+
+<div align=center>
 <img src="https://wakatime.com/share/@heesangw/f213baca-cd47-46bb-820c-227de6b34da0.svg" width="500px" />
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
