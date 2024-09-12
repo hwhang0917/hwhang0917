@@ -1,10 +1,24 @@
-<h1>👋 Hello! </h1>
+# RUNFRIDGE
 
-<p>
-    My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜) </br>
-    I'm a web developer from South Korea aiming to become full stack! <br />
-    I love to solve problems and always open for improvements.
-</p>
+## Welcome to my Github page
+
+My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜)
+I'm a full stack web developer from South Korea.
+Despite of my web background, I enjoy using CLI all the time. ❤️❤️
+
+I can't choose my favorite terminal between [alacritty](https://github.com/alacritty/alacritty) and [kitty](https://github.com/kovidgoyal/kitty) but both are amazing.
+
+## Some of my favorite CLI Tools
+
+- [`neovim`](https://github.com/neovim/neovim)
+- [`fzf`](https://github.com/junegunn/fzf)
+- [`git`](https://git-scm.com/)
+- [`awk`](https://www.gnu.org/software/gawk/manual/gawk.html)
+- [`jq`](https://jqlang.github.io/jq/manual/)
+
+If your interested, you can see my Neovim dotfiles [here](https://github.com/hwhang0917/nvim)!
+
+## 
 
 <h3>💡 These are some of my current tech interests: </h3>
 <ul>
