@@ -4,15 +4,14 @@
 >
 > [한국어](README_KO.md)
 
-## Welcome to my Github page
+## 안녕하세요!
 
-My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜)
-I'm a full stack web developer from South Korea.
-Despite of my web background, I enjoy using CLI all the time. ❤️❤️
+풀스택 웹 개발자 황희상입니다! 영어 이름으로는 Mark를 사용합니다! (아니면 웹에서는 `달리는냉장고`도 사용해요 😜)
+웹 개발자면서 CLI 개발환경을 매우 좋아합니다 ❤️❤️
 
-I can't choose my favorite terminal between [alacritty](https://github.com/alacritty/alacritty) and [kitty](https://github.com/kovidgoyal/kitty) but both are amazing.
+[alacritty](https://github.com/alacritty/alacritty)와 [kitty](https://github.com/kovidgoyal/kitty)중 좋아하는 터미널을 정하기가 어렵지만, 둘다 너무 좋아합니다.
 
-## Some of my favorite CLI Tools
+## 좋아하는 몇개의 CLI 툴 목록입니다:
 
 - [`neovim`](https://github.com/neovim/neovim)
 - [`fzf`](https://github.com/junegunn/fzf)
@@ -20,9 +19,9 @@ I can't choose my favorite terminal between [alacritty](https://github.com/alacr
 - [`awk`](https://www.gnu.org/software/gawk/manual/gawk.html)
 - [`jq`](https://jqlang.github.io/jq/manual/)
 
-If your interested, you can see my Neovim dotfiles [here](https://github.com/hwhang0917/nvim)!
+저의 Neovim Dotfile들은 [여기](https://github.com/hwhang0917/nvim)서 관리 중입니다!
 
-### 💡 These are some of my current tech interests:
+### 💡 요즘에 관심있어하는 주제들입니다:
 
 <ul>
     <li>
@@ -46,7 +45,7 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
 <br />
 
 <div align=center>
-## Languages used this year
+## 올 한해 사용한 언어:
 <img src="https://wakatime.com/share/@heesangw/f213baca-cd47-46bb-820c-227de6b34da0.svg" width="500px" />
 
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
