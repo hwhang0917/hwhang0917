@@ -7,7 +7,9 @@
 ## Welcome to my Github page
 
 My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜)
+
 I'm a full stack web developer from South Korea.
+
 Despite of my web background, I enjoy using CLI all the time. ❤️❤️
 
 I can't choose my favorite terminal between [alacritty](https://github.com/alacritty/alacritty) and [kitty](https://github.com/kovidgoyal/kitty) but both are amazing.
