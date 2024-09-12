@@ -6,7 +6,10 @@
 
 ## 안녕하세요!
 
-풀스택 웹 개발자 황희상입니다! 영어 이름으로는 Mark를 사용합니다! (아니면 웹에서는 `달리는냉장고`도 사용해요 😜)
+풀스택 웹 개발자 황희상입니다! 
+
+영어 이름으로는 Mark를 사용합니다! (아니면 웹에서는 `달리는냉장고`도 사용해요 😜)
+
 웹 개발자면서 CLI 개발환경을 매우 좋아합니다 ❤️❤️
 
 [alacritty](https://github.com/alacritty/alacritty)와 [kitty](https://github.com/kovidgoyal/kitty)중 좋아하는 터미널을 정하기가 어렵지만, 둘다 너무 좋아합니다.
