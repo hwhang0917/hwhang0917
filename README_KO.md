@@ -14,7 +14,7 @@
 
 최근에는 [wezterm](https://wezfurlong.org/wezterm/)을 메인 터미널로 사용 중입니다!
 
-[여기]()에서 저의 wezterm 설정을 볼 수 있습니다.
+[여기](https://github.com/hwhang0917/wezterm)에서 저의 wezterm 설정을 볼 수 있습니다.
 
 ## 좋아하는 몇 개의 CLI 툴 목록입니다:
 
