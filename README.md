@@ -12,7 +12,9 @@ I'm a full stack web developer from South Korea.
 
 Despite of my web background, I enjoy using CLI all the time. ❤️❤️
 
-I can't choose my favorite terminal between [alacritty](https://github.com/alacritty/alacritty) and [kitty](https://github.com/kovidgoyal/kitty) but both are amazing.
+Recently [wezterm](https://wezfurlong.org/wezterm/) has become my favorite terminal emulator.
+
+You can checkout my wezterm config [here](https://github.com/hwhang0917/wezterm)!
 
 ## Some of my favorite CLI Tools
 
@@ -32,16 +34,16 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
         <span> Neovim </span>
     </li>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252161/noticon/g7xjbbyviqi02xkxeo8x.png" width="20px">
-        <span> Bash </span>
-    </li>
-    <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px">
         <span> Git </span>
     </li>
     <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px">
         <span> Golang </span>
+    </li>
+    <li>
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778391/noticon/l0uiouhpeiq31huqu7ft.jpg" width="20px">
+        <span> Jenkins </span>
     </li>
 </ul>
 

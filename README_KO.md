@@ -6,13 +6,15 @@
 
 ## 안녕하세요!
 
-풀스택 웹 개발자 황희상입니다! 
+풀스택 웹 개발자 황희상입니다!
 
 영어 이름으로는 Mark를 사용합니다! (아니면 웹에서는 `달리는냉장고`도 사용해요 😜)
 
 웹 개발자면서 CLI 개발 환경을 매우 좋아합니다 ❤️❤️
 
-[alacritty](https://github.com/alacritty/alacritty)와 [kitty](https://github.com/kovidgoyal/kitty)중 좋아하는 터미널을 정하기가 어렵지만, 둘 다 너무 좋아합니다.
+최근에는 [wezterm](https://wezfurlong.org/wezterm/)을 메인 터미널로 사용 중입니다!
+
+[여기]()에서 저의 wezterm 설정을 볼 수 있습니다.
 
 ## 좋아하는 몇 개의 CLI 툴 목록입니다:
 
@@ -32,16 +34,16 @@
         <span> Neovim </span>
     </li>
     <li>
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252161/noticon/g7xjbbyviqi02xkxeo8x.png" width="20px">
-        <span> Bash </span>
-    </li>
-    <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px">
         <span> Git </span>
     </li>
     <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px">
         <span> Golang </span>
+    </li>
+    <li>
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778391/noticon/l0uiouhpeiq31huqu7ft.jpg" width="20px">
+        <span> Jenkins </span>
     </li>
 </ul>
 
