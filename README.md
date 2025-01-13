@@ -35,7 +35,7 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
     </li>
     <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="20px">
-        <span> Git </span>
+        <span> Git Plumbing & Porcelain </span>
     </li>
     <li>
         <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640252259/noticon/plbpsqmf2vq7e2adh09r.png" width="20px">
