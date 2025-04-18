@@ -49,7 +49,7 @@
 
 <br />
 
-## 올 한 해 동안 사용한 언어:
+---
 
 <div align=center>
 <img src="https://wakatime.com/share/@heesangw/e281a9df-1a9d-49c1-8ade-a9d3248c2d6e.png" width="500px" />
