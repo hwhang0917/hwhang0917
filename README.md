@@ -49,7 +49,7 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
 
 <br />
 
-## Languages used this year
+---
 
 <div align=center>
 <img src="https://wakatime.com/share/@heesangw/e281a9df-1a9d-49c1-8ade-a9d3248c2d6e.png" width="500px" />
