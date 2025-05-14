@@ -52,8 +52,8 @@
 ---
 
 <div align=center>
-<a href="https://wakatime.com/@heesangw" target="_blank"><img src="https://wakatime.com/share/@heesangw/e281a9df-1a9d-49c1-8ade-a9d3248c2d6e.png" width="500px" /></a>
-
+<a href="https://wakatime.com/@heesangw"><img src="https://wakatime.com/share/@heesangw/c3565342-5786-4b71-8a11-41cc9b986c9f.png" width="500px" /></a>
+    
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
 [![velog](https://img.shields.io/badge/velog-RunFridge-20C997?logo=velog)](https://velog.io/@runfridge)
