@@ -10,11 +10,9 @@ My name is Heesang Whang but I also go by Mark (or RunFridge in the web 😜)
 
 I'm a full stack web developer from South Korea.
 
-Despite of my web background, I enjoy using CLI all the time. ❤️❤️
+CLI tools are my favorite way to interact with computers, and I enjoy using them to automate my workflow.
 
-Recently [wezterm](https://wezfurlong.org/wezterm/) has become my favorite terminal emulator.
-
-You can checkout my wezterm config [here](https://github.com/hwhang0917/wezterm)!
+You can checkout my dotfiles [here](https://github.com/hwhang0917/dotfiles) if you're interested in how I set up my environment.
 
 ## Some of my favorite CLI Tools
 
@@ -53,7 +51,7 @@ If your interested, you can see my Neovim dotfiles [here](https://github.com/hwh
 
 <div align=center>
 <a href="https://wakatime.com/@heesangw"><img src="https://wakatime.com/share/@heesangw/c3565342-5786-4b71-8a11-41cc9b986c9f.png" width="500px" /></a>
-    
+
 [![Hits](https://hits.sh/github.com/hwhang0917.svg?view=today-total&label=visitors)](https://hits.sh/github.com/hwhang0917/)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
 [![velog](https://img.shields.io/badge/velog-RunFridge-20C997?logo=velog)](https://velog.io/@runfridge)

@@ -10,11 +10,9 @@
 
 영어 이름으로는 Mark를 사용합니다! (아니면 웹에서는 `달리는냉장고`도 사용해요 😜)
 
-웹 개발자면서 CLI 개발 환경을 매우 좋아합니다 ❤️❤️
+저는 CLI 툴을 좋아하고, CLI 툴을 사용하여 제 워크플로우를 자동화하는 것을 즐깁니다.
 
-최근에는 [wezterm](https://wezfurlong.org/wezterm/)을 메인 터미널로 사용 중입니다!
-
-[여기](https://github.com/hwhang0917/wezterm)에서 저의 wezterm 설정을 볼 수 있습니다.
+[이곳](https://github.com/hwhang0917/dotfiles)에서 제 설정 파일들을 확인하실 수 있습니다!
 
 ## 좋아하는 몇 개의 CLI 툴 목록입니다:
 
@@ -53,7 +51,7 @@
 
 <div align=center>
 <a href="https://wakatime.com/@heesangw"><img src="https://wakatime.com/share/@heesangw/c3565342-5786-4b71-8a11-41cc9b986c9f.png" width="500px" /></a>
-    
+
 [![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwhang0917)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/fa40e415-9fa3-4a66-88b8-f50819bf5511.svg)](https://wakatime.com/@fa40e415-9fa3-4a66-88b8-f50819bf5511)
 [![velog](https://img.shields.io/badge/velog-RunFridge-20C997?logo=velog)](https://velog.io/@runfridge)
